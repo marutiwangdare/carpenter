@@ -999,8 +999,7 @@
           return true;
         }
       });
-    }); <
-    !--end-- >
+    }); 
   </script>
   <script type="text/javascript">
     $("#navbar").on("click", function(event) {
