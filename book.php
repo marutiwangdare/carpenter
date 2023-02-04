@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
   <meta name="author" content="">
-  <title>Micronet Broadband Enterprises</title>
+  <title>Carpenter Services</title>
 
   <!-- Bootstrap CSS -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -15,8 +15,8 @@
   <link rel="stylesheet" type="text/css" href="css/style.css">
 
   <!-- favicon Icon -->
-  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+  <!--<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">-->
+  <!--<link rel="icon" href="images/favicon.ico" type="image/x-icon">-->
   <!-- CSS Plugins -->
   <link href="css/font-awesome.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate.min.css">
@@ -47,7 +47,7 @@
 
           <div class="col-md-12">
             <div class="present">
-              <h1 align="left" style="font-size:65px;"><b>Micronet Broadband </b></h1>
+              <h1 align="left" style="font-size:65px;"><b>Book Your Service</b></h1>
             </div>
 
           </div>
@@ -93,7 +93,7 @@
         margin-right: 10px;
     }
   </style>
-  <section id="contact" class="contact_bg">
+  <section id="contact" class="" style="background-color: rgb(0 0 0 / 22%);">
     <div class="container">
       <div class="row">
         <div class="col-md-12">

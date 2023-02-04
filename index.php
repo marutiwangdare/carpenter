@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
   <meta name="author" content="">
-  <title>Micronet Broadband Enterprises</title>
+  <title>Carpenter Services</title>
 
   <!-- Bootstrap CSS -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -15,8 +15,8 @@
   <link rel="stylesheet" type="text/css" href="css/style.css">
 
   <!-- favicon Icon -->
-  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+  <!--<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">-->
+  <!--<link rel="icon" href="images/favicon.ico" type="image/x-icon">-->
   <!-- CSS Plugins -->
   <link href="css/font-awesome.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate.min.css">
@@ -262,9 +262,9 @@
 
           <div class="col-md-12">
             <div class="present">
-              <h1 align="left" style="font-size:65px;"><b>Micronet Broadband </b></h1>
+              <h1 align="left" style="font-size:65px;"><b>Carpenter Services</b></h1>
 
-              <h1 style="margin-top:100px;" align="center">Uninterrupted And Unlimited Internet With Superfast Speed And <span style="font-size:60px;color:#f6b10e"><b>Service</b>.</span></h1>
+              <h1 style="margin-top:100px;" align="center">You need a carpenter to fix a broken chair, broken table or rather, a highly professional one to get a custom made bed for the home.</h1>
 
 
             </div>
@@ -347,33 +347,35 @@
 -->
 
 
-<style>
- .services_footer {
-    margin: 5px 0;
-    text-align: center;
-    font-weight: 300;
-}
-.services_footer a{
-  color: #F6B20E;
-}
-</style>
-  <section id="services" class=" our_service_bg">
+  <style>
+    .services_footer {
+      margin: 5px 0;
+      text-align: center;
+      font-weight: 300;
+    }
+
+    .services_footer a {
+      color: #F6B20E;
+    }
+  </style>
+
+  <section id="services" class="">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div class="section_heading section_heading_2">
-            <h2> Our Services</h2>
-            <h4></h4>
+          <div class="section_heading">
+            <h2 style="color:black;"> Our Services</h2>
+            <h4>Our experts give you to the qualitycarpenterwork on time in a convenient, they offer you to repair services are wood rot, framing, molding, interior and exterior trim door replacement, desk, siding, porches, rails. We believe that everything broken can be fixed. So get everything repaired by our trusted experts.</h4>
           </div>
         </div>
       </div>
       <div class="row">
         <div class="col-sm-6 col-md-4">
           <div class="thumbnail">
-            <img src="images/Wood-Furniture-Repair.jpg" alt="...">
+            <img src="images/services/img1.jpeg" alt="...">
             <div class="caption">
-              <h3>Furniture Repair</h3>
-              <p>Looking for carpenter services online is easier than asking around for a local technician. What’s better is that with vblue, you get background-verified carpenters who make sure you’re satisfied with the work provided. </p>
+              <h3>Wooden Partition</h3>
+              <p>We are the leading organization in the industry to provide our clients the best quality wooden partition work this service is widely appreciated by our valuable clients owing to its perfect execution and cost effectiveness features. Our highly experienced professionals using the best grade tools and techniques.</p>
               <p><a href="book.php" class="btn btn-primary" role="button" style="width: 100%;">BOOK NOW </a></p>
             </div>
           </div>
@@ -381,10 +383,10 @@
 
         <div class="col-sm-6 col-md-4">
           <div class="thumbnail">
-            <img src="images/Wood-Furniture-Repair.jpg" alt="...">
+            <img src="images/services/img2.jpeg" alt="...">
             <div class="caption">
-              <h3>Furniture Repair</h3>
-              <p>Looking for carpenter services online is easier than asking around for a local technician. What’s better is that with vblue, you get background-verified carpenters who make sure you’re satisfied with the work provided. </p>
+              <h3>Sofa Making</h3>
+              <p>We offer our esteemed clients the premium quality carpenter Work. Offered service is widely demanded by our clients owing to its high reliability and perfect execution. This service is carried out under the supervision. Our professionals check all the steps related to this service and execute it in an excellent manner.</p>
               <p><a href="book.php" class="btn btn-primary" role="button" style="width: 100%;">BOOK NOW </a></p>
             </div>
           </div>
@@ -392,22 +394,22 @@
 
         <div class="col-sm-6 col-md-4">
           <div class="thumbnail">
-            <img src="images/Wood-Furniture-Repair.jpg" alt="...">
+            <img src="images/services/img2.jpeg" alt="...">
             <div class="caption">
-              <h3>Furniture Repair</h3>
-              <p>Looking for carpenter services online is easier than asking around for a local technician. What’s better is that with vblue, you get background-verified carpenters who make sure you’re satisfied with the work provided. </p>
+              <h3>Bed Making</h3>
+              <p>best bed carpenter service provides you good quality of carpenter services you should make sure we delivered Wooden Partition services with 100% satisfaction. If you have any requirement of carpenter service work.</p><br /><br /><br />
               <p><a href="book.php" class="btn btn-primary" role="button" style="width: 100%;">BOOK NOW </a></p>
             </div>
           </div>
         </div>
 
-        
+
       </div>
 
       <div class="row">
         <div class="col-md-12">
           <div class="services_footer">
-            <h4><a href="all_services.php">View All Services </a></h4>
+            <h4><a href="services.php">View All Services </a></h4>
           </div>
         </div>
       </div>
@@ -415,289 +417,329 @@
 
   </section>
 
-  <br>
-
-  <section id="specifications" class="price_table_bg">
+  <section id="services" class="" style="background: #f7f7f7;">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
-
-          <div class="section_heading section_heading_2">
-            <h2> Technical Specifications </h2>
-          </div>
-        </div>
-      </div>
-
-      <div class="comparison">
-
-        <table border="1px; border-color:black" style="1500px;">
-          <thead align="">
-
-
-            <tr>
-              <th class="compare-heading" style="background-color:#d7232d; font-size:30px; border-right:solid 30px white;">
-                Broadband <br>
-                Plans
-                <br><br>
-              </th>
-              <th align="center" class="compare-heading" style="background-color:#d7232d; border-right:solid 30px white;">
-                <div class="price_month">
-                  <span class="round">
-                    <h3>
-
-                      Home
-
-                    </h3>
-
-                  </span>
-
-                </div>
-              </th>
-              <th class="compare-heading" style="background-color:#d7232d;">
-                <div class="price_month">
-                  <span class="round">
-                    <h3>
-
-                      Corporate
-
-                    </h3>
-
-                  </span>
-
-                </div>
-              </th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td></td>
-
-              <td colspan="4">Connection Category</td>
-            </tr>
-            <tr class="compare-row">
-              <td style="border-right:solid 30px white;">Connection Category</td>
-              <td style="border-right:solid 30px white;"><span class="tickblue">Copper/CAT5</span></td>
-              <td><span class="tickblue">FTTB/CAT6</td>
-
-
-            </tr>
-            <tr>
-              <td>&nbsp;</td>
-              <td colspan="4">Guaranteed upload/download speeds</td>
-            </tr>
-            <tr class="compare-row1">
-              <td style="border-right:solid 30px white;">Guaranteed upload/download speeds </td>
-              <td style="border-right:solid 30px white;" class="tickred">✕</td>
-              <td class="tickred">✕</td>
-
-
-            </tr>
-            <tr>
-              <td>&nbsp;</td>
-              <td colspan="4">Shared Speed</td>
-            </tr>
-            <tr class="compare-row">
-              <td style="border-right:solid 30px white;">Shared Speed</td>
-              <td style="border-right:solid 30px white;"><span class="tickgreen">✔</span></td>
-              <td class="tickred">✕</td>
-
-
-            </tr>
-            <tr>
-              <td>&nbsp;</td>
-              <td colspan="4">Fully Unlimited Use</td>
-            </tr>
-            <tr class="compare-row1">
-              <td style="border-right:solid 30px white;">Fully Unlimited Use</td>
-              <td style="border-right:solid 30px white;"><span class="tickgreen">✔</span></td>
-              <td><span class="tickgreen">✔</span></td>
-
-
-            </tr>
-            <tr>
-              <td>&nbsp;</td>
-              <td colspan="4">Lowest Latency</td>
-            </tr>
-            <tr class="compare-row">
-              <td style="border-right:solid 30px white;">Lowest Latency</td>
-
-              <td style="border-right:solid 30px white;" class="tickred">✕</td>
-              <td><span class="tickgreen">✔</span></td>
-
-
-            </tr>
-            <tr>
-              <td>&nbsp;</td>
-              <td colspan="4">Personalized Support 24*7*365 </td>
-            </tr>
-            <tr class="compare-row1">
-              <td style="border-right:solid 30px white;">Personalized Support 24*7*365</td>
-              <td style="border-right:solid 30px white;"><span class="tickgreen">✔</span></td>
-              <td><span class="tickgreen">✔</span></td>
-
-
-            </tr>
-            <tr>
-              <td>&nbsp;</td>
-              <td colspan="4">Network Handling Capacity</td>
-            </tr>
-            <tr class="compare-row">
-              <td style="border-right:solid 30px white;">Network Handling Capacity</td>
-              <td style="border-right:solid 30px white;" class="tickblue">Upto 100Mbps</td>
-              <td class="tickblue">Upto 100Mbps</td>
-
-
-            </tr>
-            <tr>
-              <td>&nbsp;</td>
-              <td colspan="4">Connection Security</td>
-            </tr>
-            <tr class="compare-row1">
-              <td style="border-right:solid 30px white;">Connection Security</td>
-              <td style="border-right:solid 30px white;" class="tickred">✕</td>
-              <td><span class="tickgreen">✔</span></td>
-
-            </tr>
-            <tr>
-              <td>&nbsp;</td>
-              <td colspan="4">Monitoring system</td>
-            </tr>
-            <tr class="compare-row">
-              <td style="border-right:solid 30px white;">Monitoring system</td>
-              <td style="border-right:solid 30px white;" class="tickred">✕</td>
-              <td class="tickred">✕</td>
-
-            </tr>
-            <tr>
-              <td>&nbsp;</td>
-              <td colspan="4">Open Peering</td>
-            </tr>
-            <tr class="compare-row1">
-              <td style="border-right:solid 30px white;">Open Peering</td>
-              <td style="border-right:solid 30px white;"><span class="tickgreen">✔</span></td>
-              <td><span class="tickgreen">✔</span></td>
-            </tr>
-
-          </tbody>
-        </table>
-        <br><br>
-        <div class="row">
-          <div class="col-md-12">
-
-            <div class="section_heading section_heading_2">
-              <h2> Service Specifications </h2>
+        <div class="col-sm-6 col-md-6">
+          <div class="thumbnail">
+            <div class="caption">
+              <h3 style="text-align: center;">under services we repair </h3>
+              <p>
+              <ul class="list-group">
+                <li class="list-group-item"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Wooden Partition Carpenter Services </li>
+                <li class="list-group-item"> <span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Mesh Carpenter Service</li>
+                <li class="list-group-item"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Making A New Sofa Carpenter Service </li>
+                <li class="list-group-item"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Making A New Wooden Chair Carpenter Service </li>
+                <li class="list-group-item"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Door Stopper Carpenter Service </li>
+                <li class="list-group-item"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Bed Carpenter Service </li>
+                <li class="list-group-item"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Other Carpenter Services </li>
+                <li class="list-group-item"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span> Handle Carpenter Service</li>
+              </ul>
+              </p>
             </div>
           </div>
         </div>
 
-        <div class="comparison">
+        <div class="col-sm-6 col-md-6">
+          <div class="thumbnail">
+            <img src="images/carpenter-repair-service.jpg" alt="...">
+            <div class="caption">
 
-          <table border="1px;" style="1500px;">
-            <thead align="">
+              <p>
+                We undertake all types of carpenter services are wooden partition, wooden partition carpenter services, mesh carpenter service, making a new wooden chair carpenter service, making a new wooden chair carpenter service, carpenter services, other carpenter services, handle carpenter service, etc. Our professionals are highly skilled to check these services on various provisions of quality in order to fulfill the exact customer requirement with satisfaction.
+              </p>
 
-
-              <tr>
-                <th class="compare-heading" style="background-color:#d7232d; font-size:30px; border-right:solid 20px white;">
-                  Broadband <br>
-                  Plans
-                  <br><br>
-                </th>
-                <th align="center" class="compare-heading" style="background-color:#d7232d; border-right:solid 30px white;">
-                  <div class="price_month">
-                    <span class="round">
-                      <h3>
-
-                        Home
-
-                      </h3>
-
-                    </span>
-
-                  </div>
-                </th>
-                <th class="compare-heading" style="background-color:#d7232d;">
-                  <div class="price_month">
-                    <span class="round">
-                      <h3>
-
-                        Corporate
-
-                      </h3>
-
-                    </span>
-
-                  </div>
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td></td>
-
-                <td colspan="4">Complaints Response Time</td>
-              </tr>
-              <tr class="compare-row">
-                <td style="border-right:solid 30px white;">Complaints Response Time</td>
-                <td style="border-right:solid 30px white;"><span class="tickblue">24 working hours</span></td>
-                <td><span class="tickblue">12 working hours</td>
-
-
-              </tr>
-              <tr>
-                <td>&nbsp;</td>
-                <td colspan="4">Static IP charges/Month</td>
-              </tr>
-              <tr class="compare-row1">
-                <td style="border-right:solid 30px white;">Static IP charges/Month</td>
-                <td style="border-right:solid 30px white;" class="tickblue">Rs. 1770</td>
-                <td class="tickblue">Rs. 1770</td>
-
-
-              </tr>
-              <tr>
-                <td>&nbsp;</td>
-                <td colspan="4">Service request </td>
-              </tr>
-              <tr class="compare-row">
-                <td style="border-right:solid 30px white;">Service request </td>
-                <td style="border-right:solid 30px white;" class="tickblue">CS</td>
-                <td class="tickblue">CS</td>
-
-
-
-
-              </tr>
-              <tr>
-                <td>&nbsp;</td>
-                <td colspan="4">Rewiring Charges</td>
-              </tr>
-              <tr class="compare-row1">
-                <td style="border-right:solid 30px white;">Rewiring Charges</td>
-                <td style="border-right:solid 30px white;" class="tickblue">To be Paid</span></td>
-                <td><span class="tickblue">To be Paid</span></td>
-
-
-              </tr>
-              <tr>
-                <td>&nbsp;</td>
-                <td colspan="4">Location Shifting charges</td>
-              </tr>
-              <tr class="compare-row">
-                <td style="border-right:solid 30px white;">Location Shifting charges</td>
-                <td style="border-right:solid 30px white;" class="tickblue">To be Paid</span></td>
-                <td><span class="tickblue">To be Paid</span></td>
-
-
-
-              </tr>
-
-
-            </tbody>
-          </table>
-
+            </div>
+          </div>
         </div>
+      </div>
+
+
+    </div>
+
   </section>
-  <br>
+
+  <!--<section id="specifications" class="price_table_bg">-->
+  <!--  <div class="container">-->
+  <!--    <div class="row">-->
+  <!--      <div class="col-md-12">-->
+
+  <!--        <div class="section_heading section_heading_2">-->
+  <!--          <h2> Technical Specifications </h2>-->
+  <!--        </div>-->
+  <!--      </div>-->
+  <!--    </div>-->
+
+  <!--    <div class="comparison">-->
+
+  <!--      <table border="1px; border-color:black" style="1500px;">-->
+  <!--        <thead align="">-->
+
+
+  <!--          <tr>-->
+  <!--            <th class="compare-heading" style="background-color:#d7232d; font-size:30px; border-right:solid 30px white;">-->
+  <!--              Broadband <br>-->
+  <!--              Plans-->
+  <!--              <br><br>-->
+  <!--            </th>-->
+  <!--            <th align="center" class="compare-heading" style="background-color:#d7232d; border-right:solid 30px white;">-->
+  <!--              <div class="price_month">-->
+  <!--                <span class="round">-->
+  <!--                  <h3>-->
+
+  <!--                    Home-->
+
+  <!--                  </h3>-->
+
+  <!--                </span>-->
+
+  <!--              </div>-->
+  <!--            </th>-->
+  <!--            <th class="compare-heading" style="background-color:#d7232d;">-->
+  <!--              <div class="price_month">-->
+  <!--                <span class="round">-->
+  <!--                  <h3>-->
+
+  <!--                    Corporate-->
+
+  <!--                  </h3>-->
+
+  <!--                </span>-->
+
+  <!--              </div>-->
+  <!--            </th>-->
+  <!--          </tr>-->
+  <!--        </thead>-->
+  <!--        <tbody>-->
+  <!--          <tr>-->
+  <!--            <td></td>-->
+
+  <!--            <td colspan="4">Connection Category</td>-->
+  <!--          </tr>-->
+  <!--          <tr class="compare-row">-->
+  <!--            <td style="border-right:solid 30px white;">Connection Category</td>-->
+  <!--            <td style="border-right:solid 30px white;"><span class="tickblue">Copper/CAT5</span></td>-->
+  <!--            <td><span class="tickblue">FTTB/CAT6</td>-->
+
+
+  <!--          </tr>-->
+  <!--          <tr>-->
+  <!--            <td>&nbsp;</td>-->
+  <!--            <td colspan="4">Guaranteed upload/download speeds</td>-->
+  <!--          </tr>-->
+  <!--          <tr class="compare-row1">-->
+  <!--            <td style="border-right:solid 30px white;">Guaranteed upload/download speeds </td>-->
+  <!--            <td style="border-right:solid 30px white;" class="tickred">✕</td>-->
+  <!--            <td class="tickred">✕</td>-->
+
+
+  <!--          </tr>-->
+  <!--          <tr>-->
+  <!--            <td>&nbsp;</td>-->
+  <!--            <td colspan="4">Shared Speed</td>-->
+  <!--          </tr>-->
+  <!--          <tr class="compare-row">-->
+  <!--            <td style="border-right:solid 30px white;">Shared Speed</td>-->
+  <!--            <td style="border-right:solid 30px white;"><span class="tickgreen">✔</span></td>-->
+  <!--            <td class="tickred">✕</td>-->
+
+
+  <!--          </tr>-->
+  <!--          <tr>-->
+  <!--            <td>&nbsp;</td>-->
+  <!--            <td colspan="4">Fully Unlimited Use</td>-->
+  <!--          </tr>-->
+  <!--          <tr class="compare-row1">-->
+  <!--            <td style="border-right:solid 30px white;">Fully Unlimited Use</td>-->
+  <!--            <td style="border-right:solid 30px white;"><span class="tickgreen">✔</span></td>-->
+  <!--            <td><span class="tickgreen">✔</span></td>-->
+
+
+  <!--          </tr>-->
+  <!--          <tr>-->
+  <!--            <td>&nbsp;</td>-->
+  <!--            <td colspan="4">Lowest Latency</td>-->
+  <!--          </tr>-->
+  <!--          <tr class="compare-row">-->
+  <!--            <td style="border-right:solid 30px white;">Lowest Latency</td>-->
+
+  <!--            <td style="border-right:solid 30px white;" class="tickred">✕</td>-->
+  <!--            <td><span class="tickgreen">✔</span></td>-->
+
+
+  <!--          </tr>-->
+  <!--          <tr>-->
+  <!--            <td>&nbsp;</td>-->
+  <!--            <td colspan="4">Personalized Support 24*7*365 </td>-->
+  <!--          </tr>-->
+  <!--          <tr class="compare-row1">-->
+  <!--            <td style="border-right:solid 30px white;">Personalized Support 24*7*365</td>-->
+  <!--            <td style="border-right:solid 30px white;"><span class="tickgreen">✔</span></td>-->
+  <!--            <td><span class="tickgreen">✔</span></td>-->
+
+
+  <!--          </tr>-->
+  <!--          <tr>-->
+  <!--            <td>&nbsp;</td>-->
+  <!--            <td colspan="4">Network Handling Capacity</td>-->
+  <!--          </tr>-->
+  <!--          <tr class="compare-row">-->
+  <!--            <td style="border-right:solid 30px white;">Network Handling Capacity</td>-->
+  <!--            <td style="border-right:solid 30px white;" class="tickblue">Upto 100Mbps</td>-->
+  <!--            <td class="tickblue">Upto 100Mbps</td>-->
+
+
+  <!--          </tr>-->
+  <!--          <tr>-->
+  <!--            <td>&nbsp;</td>-->
+  <!--            <td colspan="4">Connection Security</td>-->
+  <!--          </tr>-->
+  <!--          <tr class="compare-row1">-->
+  <!--            <td style="border-right:solid 30px white;">Connection Security</td>-->
+  <!--            <td style="border-right:solid 30px white;" class="tickred">✕</td>-->
+  <!--            <td><span class="tickgreen">✔</span></td>-->
+
+  <!--          </tr>-->
+  <!--          <tr>-->
+  <!--            <td>&nbsp;</td>-->
+  <!--            <td colspan="4">Monitoring system</td>-->
+  <!--          </tr>-->
+  <!--          <tr class="compare-row">-->
+  <!--            <td style="border-right:solid 30px white;">Monitoring system</td>-->
+  <!--            <td style="border-right:solid 30px white;" class="tickred">✕</td>-->
+  <!--            <td class="tickred">✕</td>-->
+
+  <!--          </tr>-->
+  <!--          <tr>-->
+  <!--            <td>&nbsp;</td>-->
+  <!--            <td colspan="4">Open Peering</td>-->
+  <!--          </tr>-->
+  <!--          <tr class="compare-row1">-->
+  <!--            <td style="border-right:solid 30px white;">Open Peering</td>-->
+  <!--            <td style="border-right:solid 30px white;"><span class="tickgreen">✔</span></td>-->
+  <!--            <td><span class="tickgreen">✔</span></td>-->
+  <!--          </tr>-->
+
+  <!--        </tbody>-->
+  <!--      </table>-->
+  <!--      <br><br>-->
+  <!--      <div class="row">-->
+  <!--        <div class="col-md-12">-->
+
+  <!--          <div class="section_heading section_heading_2">-->
+  <!--            <h2> Service Specifications </h2>-->
+  <!--          </div>-->
+  <!--        </div>-->
+  <!--      </div>-->
+
+  <!--      <div class="comparison">-->
+
+  <!--        <table border="1px;" style="1500px;">-->
+  <!--          <thead align="">-->
+
+
+  <!--            <tr>-->
+  <!--              <th class="compare-heading" style="background-color:#d7232d; font-size:30px; border-right:solid 20px white;">-->
+  <!--                Broadband <br>-->
+  <!--                Plans-->
+  <!--                <br><br>-->
+  <!--              </th>-->
+  <!--              <th align="center" class="compare-heading" style="background-color:#d7232d; border-right:solid 30px white;">-->
+  <!--                <div class="price_month">-->
+  <!--                  <span class="round">-->
+  <!--                    <h3>-->
+
+  <!--                      Home-->
+
+  <!--                    </h3>-->
+
+  <!--                  </span>-->
+
+  <!--                </div>-->
+  <!--              </th>-->
+  <!--              <th class="compare-heading" style="background-color:#d7232d;">-->
+  <!--                <div class="price_month">-->
+  <!--                  <span class="round">-->
+  <!--                    <h3>-->
+
+  <!--                      Corporate-->
+
+  <!--                    </h3>-->
+
+  <!--                  </span>-->
+
+  <!--                </div>-->
+  <!--              </th>-->
+  <!--            </tr>-->
+  <!--          </thead>-->
+  <!--          <tbody>-->
+  <!--            <tr>-->
+  <!--              <td></td>-->
+
+  <!--              <td colspan="4">Complaints Response Time</td>-->
+  <!--            </tr>-->
+  <!--            <tr class="compare-row">-->
+  <!--              <td style="border-right:solid 30px white;">Complaints Response Time</td>-->
+  <!--              <td style="border-right:solid 30px white;"><span class="tickblue">24 working hours</span></td>-->
+  <!--              <td><span class="tickblue">12 working hours</td>-->
+
+
+  <!--            </tr>-->
+  <!--            <tr>-->
+  <!--              <td>&nbsp;</td>-->
+  <!--              <td colspan="4">Static IP charges/Month</td>-->
+  <!--            </tr>-->
+  <!--            <tr class="compare-row1">-->
+  <!--              <td style="border-right:solid 30px white;">Static IP charges/Month</td>-->
+  <!--              <td style="border-right:solid 30px white;" class="tickblue">Rs. 1770</td>-->
+  <!--              <td class="tickblue">Rs. 1770</td>-->
+
+
+  <!--            </tr>-->
+  <!--            <tr>-->
+  <!--              <td>&nbsp;</td>-->
+  <!--              <td colspan="4">Service request </td>-->
+  <!--            </tr>-->
+  <!--            <tr class="compare-row">-->
+  <!--              <td style="border-right:solid 30px white;">Service request </td>-->
+  <!--              <td style="border-right:solid 30px white;" class="tickblue">CS</td>-->
+  <!--              <td class="tickblue">CS</td>-->
+
+
+
+
+  <!--            </tr>-->
+  <!--            <tr>-->
+  <!--              <td>&nbsp;</td>-->
+  <!--              <td colspan="4">Rewiring Charges</td>-->
+  <!--            </tr>-->
+  <!--            <tr class="compare-row1">-->
+  <!--              <td style="border-right:solid 30px white;">Rewiring Charges</td>-->
+  <!--              <td style="border-right:solid 30px white;" class="tickblue">To be Paid</span></td>-->
+  <!--              <td><span class="tickblue">To be Paid</span></td>-->
+
+
+  <!--            </tr>-->
+  <!--            <tr>-->
+  <!--              <td>&nbsp;</td>-->
+  <!--              <td colspan="4">Location Shifting charges</td>-->
+  <!--            </tr>-->
+  <!--            <tr class="compare-row">-->
+  <!--              <td style="border-right:solid 30px white;">Location Shifting charges</td>-->
+  <!--              <td style="border-right:solid 30px white;" class="tickblue">To be Paid</span></td>-->
+  <!--              <td><span class="tickblue">To be Paid</span></td>-->
+
+
+
+  <!--            </tr>-->
+
+
+  <!--          </tbody>-->
+  <!--        </table>-->
+
+  <!--      </div>-->
+  <!--</section>-->
+
   <!---
 <section id="customers" class="fifth-bg">
 	<div class="container">
@@ -762,63 +804,6 @@
 	</div>
 </section>
 --->
-  <br><br>
-
-  <section id="testimonial" class="testimonial_bg">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="section_heading section_heading_2">
-            <h2>Testimonial </h2>
-
-            <h4> We ensure quality & support. People love us & we love them. Here goes some simple dummy text.</h4>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6">
-            <div class="testimonial_slide">
-              <div class="testi_detail">
-                <div class="testi_img">
-                  <img src="images/12.jpg" alt="image" style="border-radius:50%; height:100px; width:100px">
-
-                  <h5>Learn Well Technocraft</h5>
-                  <p>IT Training Provider</p>
-                </div>
-
-                <div class="testi-text">
-                  <p>First thing to tell about Micronet Broadband is their excellent support. I can call directly the owner and they send a person in a flash to rectify the issue. Speed is awesome both upload and download. Recommended.
-
-                  </p>
-                </div>
-              </div>
-
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="testimonial_slide">
-              <div class="testi_detail">
-                <div class="testi_img">
-                  <img src="images/d-mart.jpg" alt="image" style="border-radius:50%; height:100px; width:100px">
-
-                  <h5>D-Mart</h5>
-                  <p><br>Retail Store</p>
-                </div>
-
-                <div class="testi-text">
-                  <p>We are really happy with the service they provided us. To our business which required constant Internet connectivity and a very fast one, they are perfect choice. Nice support and assistance in case of issues. Pleased with their service.
-
-                  </p>
-                </div>
-              </div>
-
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <br><br>
 
   <section id="contact" class="contact_bg">
     <div class="container">
@@ -999,7 +984,7 @@
           return true;
         }
       });
-    }); 
+    });
   </script>
   <script type="text/javascript">
     $("#navbar").on("click", function(event) {
