@@ -57,24 +57,47 @@
       </div>
     </div>
   </section>
+  <style>
+    .row.display-flex {
+      display: flex;
+      flex-wrap: wrap;
+      /*margin-bottom: 10px;*/
+    }
 
+    .thumbnail {
+      height: 100%;
+    }
+
+    /* extra positioning */
+    .thumbnail {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .thumbnail .caption {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      height: 100%;
+    }
+  </style>
   <section id="services" class="">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="section_heading">
             <h2> Our Services</h2>
-            <h4></h4>
           </div>
         </div>
       </div>
-      <div class="row">
+
+      <div class="row display-flex">
         <div class="col-sm-6 col-md-3">
           <div class="thumbnail">
             <img src="images/Wood-Furniture-Repair.jpg" alt="...">
             <div class="caption">
-              <h3>Furniture Repair</h3>
-              <p>Looking for carpenter services online is easier than asking around for a local technician. What’s better is that with vblue, you get background-verified carpenters who make sure you’re satisfied with the work provided. </p>
+              <h3>Wooden Partition</h3>
+              <p>We are the leading organization in the industry to provide our clients the best quality wooden partition work this service is widely appreciated by our clients owing to its perfect execution and cost effectiveness features. Our highly experienced professionals using the best grade tools and techniques. </p>
               <p><a href="book.php" class="btn btn-primary" role="button" style="width: 100%;">BOOK NOW </a></p>
             </div>
           </div>
@@ -84,8 +107,8 @@
           <div class="thumbnail">
             <img src="images/Wood-Furniture-Repair.jpg" alt="...">
             <div class="caption">
-              <h3>Furniture Repair</h3>
-              <p>Looking for carpenter services online is easier than asking around for a local technician. What’s better is that with vblue, you get background-verified carpenters who make sure you’re satisfied with the work provided. </p>
+              <h3>Mesh</h3>
+              <p>We provides expert right at the comfort of your home. Create high visibility security areas with our easy to install mesh partitions designed for unrestricted ventilation and layout flexibility. You can see that the quality of carpenter services offered by our experts. Just call us on 8004561000. </p>
               <p><a href="book.php" class="btn btn-primary" role="button" style="width: 100%;">BOOK NOW </a></p>
             </div>
           </div>
@@ -95,8 +118,8 @@
           <div class="thumbnail">
             <img src="images/Wood-Furniture-Repair.jpg" alt="...">
             <div class="caption">
-              <h3>Furniture Repair</h3>
-              <p>Looking for carpenter services online is easier than asking around for a local technician. What’s better is that with vblue, you get background-verified carpenters who make sure you’re satisfied with the work provided. </p>
+              <h3>Making A New Sofa</h3>
+              <p>We offer our esteemed clients the premium quality carpenter Work. Offered service is widely demanded by our clients owing to its high reliability and perfect execution. This service is carried out under the supervision. Our professionals check all the steps related to this service and execute it in an excellent manner. </p>
               <p><a href="book.php" class="btn btn-primary" role="button" style="width: 100%;">BOOK NOW </a></p>
             </div>
           </div>
@@ -106,55 +129,100 @@
           <div class="thumbnail">
             <img src="images/Wood-Furniture-Repair.jpg" alt="...">
             <div class="caption">
-              <h3>Furniture Repair</h3>
-              <p>Looking for carpenter services online is easier than asking around for a local technician. What’s better is that with vblue, you get background-verified carpenters who make sure you’re satisfied with the work provided. </p>
-              <p><a href="book.php" class="btn btn-primary" role="button" style="width: 100%;">BOOK NOW </a></p>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-sm-6 col-md-3">
-          <div class="thumbnail">
-            <img src="images/Wood-Furniture-Repair.jpg" alt="...">
-            <div class="caption">
-              <h3>Furniture Repair</h3>
-              <p>Looking for carpenter services online is easier than asking around for a local technician. What’s better is that with vblue, you get background-verified carpenters who make sure you’re satisfied with the work provided. </p>
-              <p><a href="book.php" class="btn btn-primary" role="button" style="width: 100%;">BOOK NOW </a></p>
-            </div>
-          </div>
-        </div>
-<div class="col-sm-6 col-md-3">
-          <div class="thumbnail">
-            <img src="images/Wood-Furniture-Repair.jpg" alt="...">
-            <div class="caption">
-              <h3>Furniture Repair</h3>
-              <p>Looking for carpenter services online is easier than asking around for a local technician. What’s better is that with vblue, you get background-verified carpenters who make sure you’re satisfied with the work provided. </p>
-              <p><a href="book.php" class="btn btn-primary" role="button" style="width: 100%;">BOOK NOW </a></p>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-3">
-          <div class="thumbnail">
-            <img src="images/Wood-Furniture-Repair.jpg" alt="...">
-            <div class="caption">
-              <h3>Furniture Repair</h3>
-              <p>Looking for carpenter services online is easier than asking around for a local technician. What’s better is that with vblue, you get background-verified carpenters who make sure you’re satisfied with the work provided. </p>
-              <p><a href="book.php" class="btn btn-primary" role="button" style="width: 100%;">BOOK NOW </a></p>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-3">
-          <div class="thumbnail">
-            <img src="images/Wood-Furniture-Repair.jpg" alt="...">
-            <div class="caption">
-              <h3>Furniture Repair</h3>
-              <p>Looking for carpenter services online is easier than asking around for a local technician. What’s better is that with vblue, you get background-verified carpenters who make sure you’re satisfied with the work provided. </p>
+              <h3>Making A New Wooden Chair</h3>
+              <p>Do you need fancy wooden chairs for your house to make it look beautiful just book our services on 8004561000. Also you can fill the booking form and this service can be availed by our clients at most reasonable price. Our professional is arrive at your door step on time. </p>
               <p><a href="book.php" class="btn btn-primary" role="button" style="width: 100%;">BOOK NOW </a></p>
             </div>
           </div>
         </div>
       </div>
-    </div>
+
+      <div class="row display-flex">
+
+        <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <img src="images/Wood-Furniture-Repair.jpg" alt="...">
+            <div class="caption">
+              <h3>Door Stopper</h3>
+              <p>The door is often a neglected item in the scheme of things with homeowners. In reality, it is an important part of your home decor in addition to providing an entry point for your home to everyone. If you need any help to repair of your door stopper just call us on 8004561000 and get free.</p>
+              <p><a href="book.php" class="btn btn-primary" role="button" style="width: 100%;">BOOK NOW </a></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <img src="images/Wood-Furniture-Repair.jpg" alt="...">
+            <div class="caption">
+              <h3>Bed carpenter service</h3>
+              <p>Best bed carpenter service provides you good quality of carpenter services you should make sure we delivered Wooden Partition services with 100% satisfaction. If you have any requirement of carpenter service work , you can just call on 8004561000 and resolve your problems at your doorsteps.</p>
+              <p><a href="book.php" class="btn btn-primary" role="button" style="width: 100%;">BOOK NOW </a></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <img src="images/Wood-Furniture-Repair.jpg" alt="...">
+            <div class="caption">
+              <h3>Other Carpenter Services</h3>
+              <p>All you need to do is let us know your requirement in carpenter services and schedule a convenient time for a carpenter at home. On confirming the booking, we will assign the best professional. At your door step. Just contact to our service on 8004561000 . </p>
+              <p><a href="book.php" class="btn btn-primary" role="button" style="width: 100%;">BOOK NOW </a></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <img src="images/Wood-Furniture-Repair.jpg" alt="...">
+            <div class="caption">
+              <h3>Handle</h3>
+              <p>The right carpenter expert to cater to your needs, right at the comfort of your home. Carpenter is a skilled trade in which the primary work performed is the cutting, shaping and installation of building materials. You can fill your all requirement to our booking form our professional at your door step at your schedule time. </p>
+              <p><a href="book.php" class="btn btn-primary" role="button" style="width: 100%;">BOOK NOW </a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row display-flex">
+        <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <img src="images/Wood-Furniture-Repair.jpg" alt="...">
+            <div class="caption">
+              <h3>Door Latch</h3>
+              <p> Carpenters construct, erect, install, and repair structures and fixtures made from wood and other materials. Installation of new door latch, door conversions, door stops and door enclosures.</p>
+              <p><a href="book.php" class="btn btn-primary" role="button" style="width: 100%;">BOOK NOW </a></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <img src="images/Wood-Furniture-Repair.jpg" alt="...">
+            <div class="caption">
+              <h3>Door Peephole</h3>
+              <p>All trained carpenters are able to switch from residential building to commercial construction or remodeling work. You can fill our requirement to our booking form. Our technician at your door step. </p>
+              <p><a href="book.php" class="btn btn-primary" role="button" style="width: 100%;">BOOK NOW </a></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <img src="images/Wood-Furniture-Repair.jpg" alt="...">
+            <div class="caption">
+              <h3>Others</h3>
+              <p>Carpenters who work for large construction. Such as constructing wooden forms for pouring concrete, or erecting scaffolding. They perform a variety of installation and maintenance, repair work. </p>
+              <p><a href="book.php" class="btn btn-primary" role="button" style="width: 100%;">BOOK NOW </a></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <img src="images/Wood-Furniture-Repair.jpg" alt="...">
+            <div class="caption">
+              <h3>Door Chain</h3>
+              <p>When it comes to carpenter work be it furniture repairs or even making custom pieces, getting the right carpenter ensures that the work will be done in a timely manner and the finished product will look good. </p>
+              <p><a href="book.php" class="btn btn-primary" role="button" style="width: 100%;">BOOK NOW </a></p>
+            </div>
+          </div>
+        </div>
+      </div>
 
   </section>
 
@@ -299,7 +367,7 @@
           return true;
         }
       });
-    }); 
+    });
   </script>
   <script type="text/javascript">
     $("#navbar").on("click", function(event) {
