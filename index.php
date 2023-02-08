@@ -296,6 +296,50 @@
     </div>
   </section>
 
+  <section class="primary-bg" id="about">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="section_heading">
+            <h2> We Welcome</h2>
+          </div>
+        </div>
+      </div>
+      <div class="row" align="center">
+			    <div class="col-lg-2">
+							<img style="margin-top:-15px" src="images/enter.png" alt="logo" width="100" height="100">
+							<h5><span style="color:black">Entrepreneurs</span></h5>
+						
+						</div>
+						  <div class="col-lg-2">
+							<img style="margin-top:-15px" src="images/freelancer.png" alt="logo" width="100" height="100">
+							<h5><span style="color:black">Freelancers</span></h5>
+						
+						</div>
+						
+							  <div class="col-lg-2">
+							<img style="margin-top:-15px" src="images/consult.png" alt="logo" width="100" height="100">
+							<h5><span style="color:black">Consultants</span></h5>
+						
+						</div>
+						  <div class="col-lg-2">
+					<img style="margin-top:-15px" src="images/seminars.png" alt="logo" width="100" height="100">
+							<h5><span style="color:black">Seminars</span></h5>
+						
+						</div>
+							  <div class="col-lg-2">
+						<img style="margin-top:-15px" src="images/start.png" alt="logo" width="100" height="100">
+							<h5><span style="color:black">Startups</span></h5>
+						
+						</div>
+						  <div class="col-lg-2">
+						<img style="margin-top:-15px" src="images/small.png" alt="logo" width="100" height="100">
+						
+							<h5><span style="color:black">Small Business</span></h5>
+						</div>
+						</div>
+    </div>
+  </section>
   <!--
   <section id="services" class="padding_bottom_none our_service_bg">
     <div class="container">
