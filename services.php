@@ -80,6 +80,9 @@
       justify-content: space-between;
       height: 100%;
     }
+    .thumbnail .caption p:last-of-type {
+      margin-top: auto;
+}
   </style>
   <section id="services" class="">
     <div class="container">
